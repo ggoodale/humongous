@@ -1,14 +1,3 @@
 # default.gems generated gem export file. Note that any env variable settings will be missing. Append these after using a ';' field separator
-actionmailer -v2.3.8
-actionpack -v2.3.8
-activerecord -v2.3.8
-activeresource -v2.3.8
-activesupport -v2.3.8
-bson -v1.0.4
 bson_ext -v1.0.4
-durran-validatable -v2.0.1
-mongo -v1.0.6
-mongoid -v1.9.1
 rack -v1.1.0
-rails -v2.3.8
-will_paginate -v2.3.14
