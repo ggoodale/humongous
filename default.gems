@@ -5,8 +5,9 @@ activerecord -v2.3.8
 activeresource -v2.3.8
 activesupport -v2.3.8
 bson -v1.0.4
+bson_ext -v1.0.4
 durran-validatable -v2.0.1
-mongo -v1.0.5
+mongo -v1.0.6
 mongoid -v1.9.1
 rack -v1.1.0
 rails -v2.3.8
